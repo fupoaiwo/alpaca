@@ -1,2 +1,2 @@
 # alpaca
-antd,vue,vuex,admin,dashboard,css,antd-pro,ant-design,vue-admin,iview,iview-admin
+Use iview Vue like a Pro! A simple vue  admin template. 
